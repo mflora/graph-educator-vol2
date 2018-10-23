@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<graph>
+	<header>
+		<direction>directed</direction>
+	</header>
+	<data>
+		<vertex>
+			<label>a</label>
+			<position>
+				<posX>21</posX>							<posY>21</posY>
+			</position>
+		</vertex>
+	</data>
+</graph>

@@ -1,0 +1,1 @@
+java -jar target\graph_educator-1.0-SNAPSHOT.jar
